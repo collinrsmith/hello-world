@@ -1,6 +1,6 @@
 # hello-world
-i'm doing it for the guide
+Hi, I'm Collin. I'm a CompSci major in my first year,
+and I want to get better acquainted with git/github.
 
-i'm learning more about code before i go to university
-
-figured i would check out all the recommended websites
+I'll be experimenting with this while I work on
+class projects and personal projects so I can practice. 
